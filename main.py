@@ -17,7 +17,7 @@ class MyPlugin(Star):
     @filter.command("lm")
     async def handle_lm_command(self, event: AstrMessageEvent):
         """处理LM音乐相关命令"""
-        command_parts = event.message_plain.strip().split()
+        command_parts = event.message_str.strip().split()
         
         # 如果只有 /lm，显示当前播放
         if len(command_parts) == 1:

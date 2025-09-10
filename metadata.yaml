@@ -1,5 +1,5 @@
-name: helloworld # 这是你的插件的唯一识别名。
-desc: 这是 AstrBot 的默认插件，支持关键词回复。 # 插件简短描述
-version: v1.3 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: Soulter # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+name: LynnbotMusic # 这是你的插件的唯一识别名。
+desc: Spotify音乐播放列表管理插件，支持播放状态查询、歌曲列表、随机播放和指定歌曲查询 # 插件简短描述
+version: v1.4 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: Lynn3t # 作者
+repo: https://github.com/Lynn3t/astrbot-lm # 插件的仓库地址
